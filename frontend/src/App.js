@@ -131,13 +131,7 @@ function App() {
     cuisine: ''
   });
 
-  const handleIngredientsChange = (ingredients) => {
-    setSelectedIngredients(ingredients);
-  };
-
-  const handleFiltersChange = (newFilters) => {
-    setFilters(newFilters);
-  };
+  
 
   const searchRecipes = async () => {
     if (selectedIngredients.length === 0) {
