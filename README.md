@@ -104,3 +104,39 @@ The frontend application will open in your browser, usually at `http://localhost
 ├── .gitignore
 └── README.md
 ```
+## 🛠️ Development Journey & Challenges
+
+When I started working on this Smart Recipe Generator, the first hurdle was getting the recipe images to display correctly.  
+I quickly realized it wasn't just one issue; there were inconsistencies in how image paths were handled in the frontend code and discrepancies between the backend's recipe data and the actual image files.
+
+My approach involved a bit of detective work. I dug into the backend's server logic and the frontend's display components, systematically fixing image paths and ensuring filenames matched exactly.  
+A significant discovery was finding two separate `recipes.json` files, which was causing a lot of confusion.  
+I decided the best long-term solution was to consolidate them into a single, authoritative database and update the frontend to fetch all its data from the backend API.
+
+Preparing for Netlify deployment brought its own set of challenges, especially with the frontend's build process.  
+I adapted the project for static hosting by moving the recipe data directly into the frontend's public assets.  
+When the Netlify builds initially failed due to strict ESLint rules, I implemented a workaround to ensure the project could compile successfully in a CI environment.
+
+Ultimately, my goal was to create a robust and maintainable application.  
+I focused on:
+
+- Cleaning up the data flow  
+- Ensuring a smooth user experience with proper image display  
+- Setting up a straightforward deployment process  
+- Documenting everything thoroughly in the README so anyone can easily understand, run, and deploy the project  
+
+---
+
+## 🚀 Deployment
+
+The project is deployed on **[Netlify](https://smart-recipegenerator.netlify.app/)** for frontend hosting.  
+
+---
+
+## 👩‍💻 Author
+
+**Anika Singh**  
+📧 2k22.it.2211014@gmail.com  
+
+🔗 [GitHub](https://github.com/Anika9129)
+
