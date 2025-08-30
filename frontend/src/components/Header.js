@@ -134,7 +134,7 @@ const Header = () => {
         </Logo>
         
         <GitHubLink 
-          href="https://github.com/your-username/smart-recipe-generator" 
+          href="https://github.com/Anika9129/Smart-Recipe-Generator"
           target="_blank" 
           rel="noopener noreferrer"
         >
