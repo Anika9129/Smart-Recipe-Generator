@@ -1,0 +1,1158 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Classic Spaghetti Carbonara",
+      "description": "Traditional Italian pasta dish with eggs, cheese, and pancetta",
+      "image": "/images/recipes/Classic Spaghetti Carbonara.jpg",
+      "ingredients": [
+        {"name": "spaghetti", "amount": 400, "unit": "g"},
+        {"name": "eggs", "amount": 4, "unit": "pieces"},
+        {"name": "pancetta", "amount": 200, "unit": "g"},
+        {"name": "parmesan cheese", "amount": 100, "unit": "g"},
+        {"name": "black pepper", "amount": 1, "unit": "tsp"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Boil water and cook spaghetti according to package instructions",
+        "Beat eggs with grated parmesan and black pepper",
+        "Cook pancetta until crispy",
+        "Drain pasta, reserving some pasta water",
+        "Mix hot pasta with pancetta and egg mixture off heat",
+        "Add pasta water gradually until creamy",
+        "Serve immediately with extra cheese"
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": 28,
+        "carbs": 58,
+        "fat": 32,
+        "fiber": 3
+      },
+      "cookingTime": 20,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["vegetarian"],
+      "cuisine": "Italian",
+      "tags": ["pasta", "comfort food", "quick"]
+    },
+    {
+      "id": 2,
+      "name": "Quinoa Buddha Bowl",
+      "description": "Nutritious bowl with quinoa, roasted vegetables, and tahini dressing",
+      "image": "/images/recipes/Quinoa Buddha Bowl.jpg",
+      "ingredients": [
+        {"name": "quinoa", "amount": 200, "unit": "g"},
+        {"name": "sweet potato", "amount": 300, "unit": "g"},
+        {"name": "broccoli", "amount": 200, "unit": "g"},
+        {"name": "chickpeas", "amount": 400, "unit": "g"},
+        {"name": "avocado", "amount": 1, "unit": "pieces"},
+        {"name": "tahini", "amount": 3, "unit": "tbsp"},
+        {"name": "lemon juice", "amount": 2, "unit": "tbsp"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Cook quinoa according to package instructions",
+        "Roast cubed sweet potato at 400°F for 25 minutes",
+        "Steam broccoli until tender-crisp",
+        "Drain and rinse chickpeas",
+        "Make tahini dressing with tahini, lemon juice, and olive oil",
+        "Assemble bowls with quinoa, vegetables, and chickpeas",
+        "Top with sliced avocado and drizzle with dressing"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 18,
+        "carbs": 68,
+        "fat": 22,
+        "fiber": 15
+      },
+      "cookingTime": 35,
+      "difficulty": "easy",
+      "servings": 2,
+      "dietary": ["vegan", "gluten-free", "vegetarian"],
+      "cuisine": "Mediterranean",
+      "tags": ["healthy", "bowl", "meal prep"]
+    },
+    {
+      "id": 3,
+      "name": "Chicken Tikka Masala",
+      "description": "Creamy Indian curry with tender chicken in spiced tomato sauce",
+      "image": "/images/recipes/Chicken Tikka Masala.jpg",
+      "ingredients": [
+        {"name": "chicken breast", "amount": 600, "unit": "g"},
+        {"name": "yogurt", "amount": 200, "unit": "ml"},
+        {"name": "onions", "amount": 2, "unit": "pieces"},
+        {"name": "garlic", "amount": 4, "unit": "cloves"},
+        {"name": "ginger", "amount": 2, "unit": "tbsp"},
+        {"name": "tomatoes", "amount": 400, "unit": "g"},
+        {"name": "coconut milk", "amount": 400, "unit": "ml"},
+        {"name": "garam masala", "amount": 2, "unit": "tsp"},
+        {"name": "turmeric", "amount": 1, "unit": "tsp"},
+        {"name": "cumin", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt, garlic, ginger, and spices for 30 minutes",
+        "Cook chicken pieces until golden, set aside",
+        "Sauté onions until soft",
+        "Add garlic, ginger, and spices, cook for 1 minute",
+        "Add tomatoes and cook until broken down",
+        "Stir in coconut milk and simmer",
+        "Return chicken to sauce and simmer for 15 minutes",
+        "Serve with rice and naan"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 12,
+        "fat": 26,
+        "fiber": 3
+      },
+      "cookingTime": 60,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["gluten-free"],
+      "cuisine": "Indian",
+      "tags": ["curry", "spicy", "comfort food"]
+    },
+    {
+      "id": 4,
+      "name": "Greek Salad",
+      "description": "Fresh Mediterranean salad with feta cheese and olives",
+      "image": "/images/recipes/Greek Salad.jpg",
+      "ingredients": [
+        {"name": "tomatoes", "amount": 4, "unit": "pieces"},
+        {"name": "cucumber", "amount": 1, "unit": "pieces"},
+        {"name": "red onion", "amount": 1, "unit": "pieces"},
+        {"name": "feta cheese", "amount": 150, "unit": "g"},
+        {"name": "kalamata olives", "amount": 100, "unit": "g"},
+        {"name": "olive oil", "amount": 4, "unit": "tbsp"},
+        {"name": "red wine vinegar", "amount": 2, "unit": "tbsp"},
+        {"name": "oregano", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cut tomatoes into wedges",
+        "Slice cucumber and red onion",
+        "Combine vegetables in large bowl",
+        "Add olives and cubed feta cheese",
+        "Whisk together olive oil, vinegar, and oregano",
+        "Pour dressing over salad and toss gently",
+        "Let sit for 10 minutes before serving"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 12,
+        "carbs": 15,
+        "fat": 22,
+        "fiber": 5
+      },
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": ["vegetarian", "gluten-free"],
+      "cuisine": "Greek",
+      "tags": ["salad", "fresh", "no-cook"]
+    },
+    {
+      "id": 5,
+      "name": "Beef Stir Fry",
+      "description": "Quick and healthy stir-fry with tender beef and crisp vegetables",
+      "image": "/images/recipes/Beef Stir Fry.jpg",
+      "ingredients": [
+        {"name": "beef sirloin", "amount": 500, "unit": "g"},
+        {"name": "bell peppers", "amount": 2, "unit": "pieces"},
+        {"name": "broccoli", "amount": 200, "unit": "g"},
+        {"name": "carrots", "amount": 2, "unit": "pieces"},
+        {"name": "soy sauce", "amount": 3, "unit": "tbsp"},
+        {"name": "garlic", "amount": 3, "unit": "cloves"},
+        {"name": "ginger", "amount": 1, "unit": "tbsp"},
+        {"name": "sesame oil", "amount": 1, "unit": "tbsp"},
+        {"name": "vegetable oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Cut beef into thin strips",
+        "Chop vegetables into bite-sized pieces",
+        "Heat vegetable oil in wok or large pan",
+        "Stir-fry beef until browned, remove from pan",
+        "Stir-fry vegetables until crisp-tender",
+        "Return beef to pan with garlic and ginger",
+        "Add soy sauce and sesame oil, toss to combine",
+        "Serve immediately over rice"
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 32,
+        "carbs": 12,
+        "fat": 20,
+        "fiber": 4
+      },
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "Asian",
+      "tags": ["stir-fry", "quick", "healthy"]
+    },
+    {
+      "id": 6,
+      "name": "Mushroom Risotto",
+      "description": "Creamy Italian rice dish with mixed mushrooms and parmesan",
+      "image": "/images/recipes/Mushroom Risotto.jpg",
+      "ingredients": [
+        {"name": "arborio rice", "amount": 300, "unit": "g"},
+        {"name": "mushrooms", "amount": 400, "unit": "g"},
+        {"name": "vegetable stock", "amount": 1.2, "unit": "l"},
+        {"name": "white wine", "amount": 150, "unit": "ml"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"},
+        {"name": "parmesan cheese", "amount": 80, "unit": "g"},
+        {"name": "butter", "amount": 50, "unit": "g"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Heat stock and keep warm",
+        "Sauté sliced mushrooms until golden, set aside",
+        "Sauté onion and garlic until soft",
+        "Add rice, stir until translucent",
+        "Add wine, stir until absorbed",
+        "Add warm stock one ladle at a time, stirring constantly",
+        "Continue until rice is creamy and al dente (20 minutes)",
+        "Stir in mushrooms, butter, and parmesan",
+        "Season and serve immediately"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 12,
+        "carbs": 65,
+        "fat": 14,
+        "fiber": 3
+      },
+      "cookingTime": 35,
+      "difficulty": "hard",
+      "servings": 4,
+      "dietary": ["vegetarian", "gluten-free"],
+      "cuisine": "Italian",
+      "tags": ["rice", "comfort food", "sophisticated"]
+    },
+    {
+      "id": 7,
+      "name": "Salmon with Lemon Herbs",
+      "description": "Pan-seared salmon with fresh herbs and lemon",
+      "image": "/images/recipes/Salmon with Lemon Herbs.jpg",
+      "ingredients": [
+        {"name": "salmon fillets", "amount": 600, "unit": "g"},
+        {"name": "lemon", "amount": 1, "unit": "pieces"},
+        {"name": "fresh dill", "amount": 2, "unit": "tbsp"},
+        {"name": "fresh parsley", "amount": 2, "unit": "tbsp"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"name": "butter", "amount": 30, "unit": "g"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"}
+      ],
+      "instructions": [
+        "Pat salmon fillets dry and season with salt and pepper",
+        "Heat olive oil in large pan over medium-high heat",
+        "Cook salmon skin-side down for 4-5 minutes",
+        "Flip and cook for 3-4 minutes more",
+        "Add butter, garlic, and herbs to pan",
+        "Baste salmon with herb butter",
+        "Squeeze lemon over salmon before serving"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 35,
+        "carbs": 2,
+        "fat": 18,
+        "fiber": 0
+      },
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": ["gluten-free", "keto"],
+      "cuisine": "Mediterranean",
+      "tags": ["fish", "healthy", "quick"]
+    },
+    {
+      "id": 8,
+      "name": "Vegetable Curry",
+      "description": "Hearty curry with mixed vegetables in coconut milk",
+      "image": "/images/recipes/Vegetable Curry.jpg",
+      "ingredients": [
+        {"name": "potatoes", "amount": 300, "unit": "g"},
+        {"name": "carrots", "amount": 200, "unit": "g"},
+        {"name": "peas", "amount": 150, "unit": "g"},
+        {"name": "cauliflower", "amount": 300, "unit": "g"},
+        {"name": "coconut milk", "amount": 400, "unit": "ml"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 3, "unit": "cloves"},
+        {"name": "ginger", "amount": 2, "unit": "tbsp"},
+        {"name": "curry powder", "amount": 2, "unit": "tbsp"},
+        {"name": "turmeric", "amount": 1, "unit": "tsp"},
+        {"name": "cumin", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cut vegetables into bite-sized pieces",
+        "Sauté onion, garlic, and ginger until fragrant",
+        "Add spices and cook for 1 minute",
+        "Add potatoes and carrots, cook for 5 minutes",
+        "Pour in coconut milk and bring to simmer",
+        "Add cauliflower and cook for 10 minutes",
+        "Add peas and cook for 5 minutes more",
+        "Season with salt and serve with rice"
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 12,
+        "carbs": 45,
+        "fat": 18,
+        "fiber": 8
+      },
+      "cookingTime": 40,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["vegan", "vegetarian", "gluten-free"],
+      "cuisine": "Indian",
+      "tags": ["curry", "healthy", "comfort food"]
+    },
+    {
+      "id": 9,
+      "name": "Caesar Salad",
+      "description": "Classic salad with romaine lettuce, croutons, and Caesar dressing",
+      "image": "/images/recipes/Caesar salad.jpg",
+      "ingredients": [
+        {"name": "romaine lettuce", "amount": 2, "unit": "heads"},
+        {"name": "parmesan cheese", "amount": 80, "unit": "g"},
+        {"name": "bread", "amount": 4, "unit": "slices"},
+        {"name": "mayonnaise", "amount": 4, "unit": "tbsp"},
+        {"name": "anchovies", "amount": 4, "unit": "fillets"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"},
+        {"name": "lemon juice", "amount": 2, "unit": "tbsp"},
+        {"name": "olive oil", "amount": 3, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Cut bread into cubes and toast until golden",
+        "Wash and chop romaine lettuce",
+        "Make dressing by mixing mayonnaise, minced anchovies, garlic, lemon juice",
+        "Toss lettuce with dressing",
+        "Top with grated parmesan and croutons",
+        "Serve immediately"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 15,
+        "carbs": 18,
+        "fat": 24,
+        "fiber": 4
+      },
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "American",
+      "tags": ["salad", "classic", "appetizer"]
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Chip Cookies",
+      "description": "Classic homemade cookies with chocolate chips",
+      "image": "/images/recipes/Chocolate Chip Cookies.jpg",
+      "ingredients": [
+        {"name": "flour", "amount": 300, "unit": "g"},
+        {"name": "butter", "amount": 200, "unit": "g"},
+        {"name": "brown sugar", "amount": 150, "unit": "g"},
+        {"name": "white sugar", "amount": 100, "unit": "g"},
+        {"name": "eggs", "amount": 2, "unit": "pieces"},
+        {"name": "vanilla extract", "amount": 1, "unit": "tsp"},
+        {"name": "chocolate chips", "amount": 200, "unit": "g"},
+        {"name": "baking soda", "amount": 1, "unit": "tsp"},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Preheat oven to 375°F",
+        "Cream butter with both sugars until fluffy",
+        "Beat in eggs and vanilla",
+        "Mix flour, baking soda, and salt in separate bowl",
+        "Gradually add dry ingredients to wet ingredients",
+        "Fold in chocolate chips",
+        "Drop spoonfuls onto baking sheets",
+        "Bake for 9-11 minutes until golden",
+        "Cool on wire rack"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 3,
+        "carbs": 25,
+        "fat": 8,
+        "fiber": 1
+      },
+      "cookingTime": 30,
+      "difficulty": "easy",
+      "servings": 24,
+      "dietary": ["vegetarian"],
+      "cuisine": "American",
+      "tags": ["dessert", "cookies", "baking"]
+    },
+    {
+      "id": 11,
+      "name": "Thai Green Curry",
+      "description": "Spicy Thai curry with vegetables in coconut milk",
+      "image": "/images/recipes/Thai Green Curry.jpg",
+      "ingredients": [
+        {"name": "green curry paste", "amount": 3, "unit": "tbsp"},
+        {"name": "coconut milk", "amount": 400, "unit": "ml"},
+        {"name": "eggplant", "amount": 300, "unit": "g"},
+        {"name": "bell peppers", "amount": 2, "unit": "pieces"},
+        {"name": "bamboo shoots", "amount": 200, "unit": "g"},
+        {"name": "thai basil", "amount": 20, "unit": "leaves"},
+        {"name": "fish sauce", "amount": 2, "unit": "tbsp"},
+        {"name": "brown sugar", "amount": 1, "unit": "tbsp"},
+        {"name": "lime juice", "amount": 1, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Heat thick part of coconut milk in pan",
+        "Add curry paste and fry until fragrant",
+        "Add remaining coconut milk gradually",
+        "Add eggplant and simmer for 10 minutes",
+        "Add bell peppers and bamboo shoots",
+        "Season with fish sauce and sugar",
+        "Add thai basil and lime juice",
+        "Serve with jasmine rice"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 8,
+        "carbs": 22,
+        "fat": 24,
+        "fiber": 6
+      },
+      "cookingTime": 25,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["gluten-free"],
+      "cuisine": "Thai",
+      "tags": ["curry", "spicy", "vegetarian option"]
+    },
+    {
+      "id": 12,
+      "name": "Pancakes",
+      "description": "Fluffy breakfast pancakes with maple syrup",
+      "image": "/images/recipes/Pancakes.jpg",
+      "ingredients": [
+        {"name": "flour", "amount": 200, "unit": "g"},
+        {"name": "milk", "amount": 250, "unit": "ml"},
+        {"name": "eggs", "amount": 2, "unit": "pieces"},
+        {"name": "butter", "amount": 50, "unit": "g"},
+        {"name": "sugar", "amount": 2, "unit": "tbsp"},
+        {"name": "baking powder", "amount": 2, "unit": "tsp"},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"},
+        {"name": "vanilla extract", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Mix flour, sugar, baking powder, and salt in large bowl",
+        "Whisk milk, eggs, melted butter, and vanilla in separate bowl",
+        "Pour wet ingredients into dry ingredients",
+        "Mix just until combined (don't overmix)",
+        "Heat non-stick pan over medium heat",
+        "Pour batter to form pancakes",
+        "Cook until bubbles form, then flip",
+        "Cook until golden brown on both sides"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 8,
+        "carbs": 42,
+        "fat": 9,
+        "fiber": 2
+      },
+      "cookingTime": 20,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": ["vegetarian"],
+      "cuisine": "American",
+      "tags": ["breakfast", "sweet", "comfort food"]
+    },
+    {
+      "id": 13,
+      "name": "Lentil Soup",
+      "description": "Hearty and nutritious soup with red lentils and vegetables",
+      "image": "/images/recipes/Lentil Soup.jpg",
+      "ingredients": [
+        {"name": "red lentils", "amount": 300, "unit": "g"},
+        {"name": "carrots", "amount": 3, "unit": "pieces"},
+        {"name": "celery", "amount": 3, "unit": "stalks"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 3, "unit": "cloves"},
+        {"name": "vegetable stock", "amount": 1.5, "unit": "l"},
+        {"name": "bay leaves", "amount": 2, "unit": "pieces"},
+        {"name": "thyme", "amount": 1, "unit": "tsp"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Dice carrots, celery, and onion",
+        "Heat olive oil and sauté vegetables until soft",
+        "Add minced garlic and cook for 1 minute",
+        "Add lentils, stock, bay leaves, and thyme",
+        "Bring to boil, then simmer for 25 minutes",
+        "Remove bay leaves",
+        "Partially blend for chunky texture",
+        "Season with salt and pepper"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 18,
+        "carbs": 48,
+        "fat": 4,
+        "fiber": 12
+      },
+      "cookingTime": 40,
+      "difficulty": "easy",
+      "servings": 6,
+      "dietary": ["vegan", "vegetarian", "gluten-free"],
+      "cuisine": "Mediterranean",
+      "tags": ["soup", "healthy", "protein-rich"]
+    },
+    {
+      "id": 14,
+      "name": "Chicken Parmesan",
+      "description": "Breaded chicken breast with marinara sauce and melted cheese",
+      "image": "/images/recipes/Chicken Parmesan.jpg",
+      "ingredients": [
+        {"name": "chicken breast", "amount": 600, "unit": "g"},
+        {"name": "breadcrumbs", "amount": 150, "unit": "g"},
+        {"name": "flour", "amount": 100, "unit": "g"},
+        {"name": "eggs", "amount": 2, "unit": "pieces"},
+        {"name": "marinara sauce", "amount": 400, "unit": "ml"},
+        {"name": "mozzarella cheese", "amount": 200, "unit": "g"},
+        {"name": "parmesan cheese", "amount": 80, "unit": "g"},
+        {"name": "olive oil", "amount": 4, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Pound chicken to even thickness",
+        "Set up breading station: flour, beaten eggs, breadcrumbs",
+        "Bread chicken by dipping in flour, egg, then breadcrumbs",
+        "Heat olive oil in large oven-safe pan",
+        "Brown chicken on both sides",
+        "Top with marinara sauce and cheeses",
+        "Bake at 400°F for 15 minutes until cheese melts",
+        "Serve with pasta or salad"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 42,
+        "carbs": 28,
+        "fat": 26,
+        "fiber": 2
+      },
+      "cookingTime": 45,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "Italian-American",
+      "tags": ["chicken", "comfort food", "cheese"]
+    },
+    {
+      "id": 15,
+      "name": "Avocado Toast",
+      "description": "Simple and nutritious breakfast with smashed avocado on toast",
+      "image": "/images/recipes/Avocado Toast.jpg",
+      "ingredients": [
+        {"name": "bread", "amount": 4, "unit": "slices"},
+        {"name": "avocado", "amount": 2, "unit": "pieces"},
+        {"name": "lemon juice", "amount": 1, "unit": "tbsp"},
+        {"name": "cherry tomatoes", "amount": 150, "unit": "g"},
+        {"name": "red pepper flakes", "amount": 0.5, "unit": "tsp"},
+        {"name": "olive oil", "amount": 1, "unit": "tbsp"},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Toast bread slices until golden",
+        "Mash avocados with lemon juice and salt",
+        "Halve cherry tomatoes",
+        "Spread avocado mixture on toast",
+        "Top with cherry tomatoes",
+        "Drizzle with olive oil",
+        "Sprinkle with red pepper flakes"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 8,
+        "carbs": 35,
+        "fat": 18,
+        "fiber": 12
+      },
+      "cookingTime": 10,
+      "difficulty": "easy",
+      "servings": 2,
+      "dietary": ["vegetarian", "vegan"],
+      "cuisine": "Modern",
+      "tags": ["breakfast", "healthy", "quick"]
+    },
+    {
+      "id": 16,
+      "name": "Beef Tacos",
+      "description": "Mexican-style tacos with seasoned ground beef",
+      "image": "/images/recipes/Beef Tacos.jpg",
+      "ingredients": [
+        {"name": "ground beef", "amount": 500, "unit": "g"},
+        {"name": "taco shells", "amount": 8, "unit": "pieces"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"},
+        {"name": "chili powder", "amount": 2, "unit": "tsp"},
+        {"name": "cumin", "amount": 1, "unit": "tsp"},
+        {"name": "lettuce", "amount": 200, "unit": "g"},
+        {"name": "tomatoes", "amount": 2, "unit": "pieces"},
+        {"name": "cheddar cheese", "amount": 150, "unit": "g"},
+        {"name": "sour cream", "amount": 150, "unit": "ml"}
+      ],
+      "instructions": [
+        "Brown ground beef in large pan",
+        "Add diced onion and garlic, cook until soft",
+        "Season with chili powder, cumin, salt, and pepper",
+        "Cook for 5 minutes more",
+        "Warm taco shells according to package directions",
+        "Shred lettuce and dice tomatoes",
+        "Fill shells with beef mixture",
+        "Top with lettuce, tomatoes, cheese, and sour cream"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 25,
+        "carbs": 22,
+        "fat": 26,
+        "fiber": 4
+      },
+      "cookingTime": 20,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "Mexican",
+      "tags": ["tacos", "quick", "family-friendly"]
+    },
+    {
+      "id": 17,
+      "name": "Caprese Salad",
+      "description": "Simple Italian salad with tomatoes, mozzarella, and basil",
+      "image": "/images/recipes/caprese salad.jpg",
+      "ingredients": [
+        {"name": "tomatoes", "amount": 4, "unit": "pieces"},
+        {"name": "mozzarella cheese", "amount": 250, "unit": "g"},
+        {"name": "fresh basil", "amount": 20, "unit": "leaves"},
+        {"name": "olive oil", "amount": 3, "unit": "tbsp"},
+        {"name": "balsamic vinegar", "amount": 2, "unit": "tbsp"},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"},
+        {"name": "black pepper", "amount": 0.25, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Slice tomatoes and mozzarella into equal thickness",
+        "Arrange alternating slices on platter",
+        "Tuck fresh basil leaves between slices",
+        "Drizzle with olive oil and balsamic vinegar",
+        "Season with salt and pepper",
+        "Let sit for 10 minutes before serving"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 22,
+        "fiber": 2
+      },
+      "cookingTime": 10,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": ["vegetarian", "gluten-free"],
+      "cuisine": "Italian",
+      "tags": ["salad", "no-cook", "fresh"]
+    },
+    {
+      "id": 18,
+      "name": "Shrimp Scampi",
+      "description": "Garlic butter shrimp with white wine and lemon",
+      "image": "/images/recipes/Shrimp Scampi.jpg",
+      "ingredients": [
+        {"name": "shrimp", "amount": 600, "unit": "g"},
+        {"name": "linguine", "amount": 400, "unit": "g"},
+        {"name": "garlic", "amount": 6, "unit": "cloves"},
+        {"name": "white wine", "amount": 150, "unit": "ml"},
+        {"name": "butter", "amount": 80, "unit": "g"},
+        {"name": "lemon", "amount": 1, "unit": "pieces"},
+        {"name": "parsley", "amount": 3, "unit": "tbsp"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Cook linguine according to package directions",
+        "Heat olive oil and half the butter in large pan",
+        "Add minced garlic and cook until fragrant",
+        "Add shrimp and cook until pink",
+        "Add white wine and lemon juice",
+        "Toss with cooked pasta and remaining butter",
+        "Garnish with fresh parsley",
+        "Serve immediately"
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 32,
+        "carbs": 52,
+        "fat": 18,
+        "fiber": 3
+      },
+      "cookingTime": 20,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "Italian",
+      "tags": ["seafood", "pasta", "elegant"]
+    },
+    {
+      "id": 19,
+      "name": "Veggie Burger",
+      "description": "Plant-based burger with black beans and vegetables",
+      "image": "/images/recipes/Veggie Burger.jpg",
+      "ingredients": [
+        {"name": "black beans", "amount": 400, "unit": "g"},
+        {"name": "breadcrumbs", "amount": 80, "unit": "g"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"},
+        {"name": "carrots", "amount": 1, "unit": "pieces"},
+        {"name": "eggs", "amount": 1, "unit": "pieces"},
+        {"name": "cumin", "amount": 1, "unit": "tsp"},
+        {"name": "burger buns", "amount": 4, "unit": "pieces"},
+        {"name": "lettuce", "amount": 4, "unit": "leaves"},
+        {"name": "tomatoes", "amount": 1, "unit": "pieces"}
+      ],
+      "instructions": [
+        "Drain and rinse black beans",
+        "Sauté diced onion, garlic, and grated carrot",
+        "Mash beans with fork, leaving some chunks",
+        "Mix beans with vegetables, egg, breadcrumbs, and spices",
+        "Form into 4 patties and chill for 30 minutes",
+        "Cook patties in pan for 5 minutes each side",
+        "Toast buns if desired",
+        "Assemble with lettuce and tomato"
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 16,
+        "carbs": 65,
+        "fat": 6,
+        "fiber": 14
+      },
+      "cookingTime": 45,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["vegetarian"],
+      "cuisine": "American",
+      "tags": ["burger", "plant-based", "protein-rich"]
+    },
+    {
+      "id": 20,
+      "name": "Teriyaki Chicken Bowl",
+      "description": "Japanese-style chicken bowl with rice and vegetables",
+      "image": "/images/recipes/Teriyaki Chicken Bowl.jpg",
+      "ingredients": [
+        {"name": "chicken thighs", "amount": 600, "unit": "g"},
+        {"name": "white rice", "amount": 300, "unit": "g"},
+        {"name": "soy sauce", "amount": 4, "unit": "tbsp"},
+        {"name": "honey", "amount": 2, "unit": "tbsp"},
+        {"name": "rice vinegar", "amount": 1, "unit": "tbsp"},
+        {"name": "ginger", "amount": 1, "unit": "tbsp"},
+        {"name": "broccoli", "amount": 300, "unit": "g"},
+        {"name": "carrots", "amount": 2, "unit": "pieces"},
+        {"name": "sesame seeds", "amount": 2, "unit": "tbsp"},
+        {"name": "green onions", "amount": 3, "unit": "stalks"}
+      ],
+      "instructions": [
+        "Cook rice according to package instructions",
+        "Make teriyaki sauce with soy sauce, honey, vinegar, and ginger",
+        "Cook chicken thighs until done, brush with sauce",
+        "Steam broccoli and sliced carrots",
+        "Slice chicken and arrange over rice",
+        "Add steamed vegetables to bowls",
+        "Drizzle with remaining sauce",
+        "Garnish with sesame seeds and green onions"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 58,
+        "fat": 16,
+        "fiber": 4
+      },
+      "cookingTime": 30,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "Japanese",
+      "tags": ["bowl", "asian", "balanced"]
+    },
+    {
+      "id": 21,
+      "name": "Smoothie Bowl",
+      "description": "Healthy breakfast bowl with blended fruits and toppings",
+      "image": "/images/recipes/Smoothie Bowl.jpg",
+      "ingredients": [
+        {"name": "frozen berries", "amount": 200, "unit": "g"},
+        {"name": "banana", "amount": 2, "unit": "pieces"},
+        {"name": "yogurt", "amount": 200, "unit": "ml"},
+        {"name": "honey", "amount": 2, "unit": "tbsp"},
+        {"name": "granola", "amount": 80, "unit": "g"},
+        {"name": "coconut flakes", "amount": 30, "unit": "g"},
+        {"name": "chia seeds", "amount": 2, "unit": "tbsp"},
+        {"name": "fresh berries", "amount": 100, "unit": "g"}
+      ],
+      "instructions": [
+        "Blend frozen berries, 1 banana, yogurt, and honey until thick",
+        "Pour into bowls",
+        "Slice remaining banana",
+        "Top with granola, coconut flakes, chia seeds",
+        "Add fresh berries and banana slices",
+        "Serve immediately"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 15,
+        "carbs": 68,
+        "fat": 12,
+        "fiber": 12
+      },
+      "cookingTime": 10,
+      "difficulty": "easy",
+      "servings": 2,
+      "dietary": ["vegetarian", "gluten-free"],
+      "cuisine": "Modern",
+      "tags": ["breakfast", "healthy", "fruit"]
+    },
+    {
+      "id": 22,
+      "name": "Fish and Chips",
+      "description": "Classic British dish with battered fish and crispy chips",
+      "image": "/images/recipes/Fish and Chips.jpg",
+      "ingredients": [
+        {"name": "white fish fillets", "amount": 600, "unit": "g"},
+        {"name": "potatoes", "amount": 800, "unit": "g"},
+        {"name": "flour", "amount": 200, "unit": "g"},
+        {"name": "beer", "amount": 250, "unit": "ml"},
+        {"name": "baking powder", "amount": 1, "unit": "tsp"},
+        {"name": "vegetable oil", "amount": 1, "unit": "l"},
+        {"name": "malt vinegar", "amount": 4, "unit": "tbsp"},
+        {"name": "peas", "amount": 200, "unit": "g"}
+      ],
+      "instructions": [
+        "Cut potatoes into thick chips and soak in cold water",
+        "Make batter with flour, beer, and baking powder",
+        "Heat oil to 350°F for deep frying",
+        "Fry chips until golden, drain on paper towels",
+        "Dip fish in batter and fry until golden",
+        "Drain fish on paper towels",
+        "Cook peas in boiling water",
+        "Serve fish and chips with mushy peas and vinegar"
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 32,
+        "carbs": 72,
+        "fat": 32,
+        "fiber": 8
+      },
+      "cookingTime": 45,
+      "difficulty": "hard",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "British",
+      "tags": ["fish", "fried", "traditional"]
+    },
+    {
+      "id": 23,
+      "name": "Stuffed Bell Peppers",
+      "description": "Bell peppers filled with rice, ground meat, and vegetables",
+      "image": "/images/recipes/Stuffed Bell Peppers.jpg",
+      "ingredients": [
+        {"name": "bell peppers", "amount": 4, "unit": "pieces"},
+        {"name": "ground turkey", "amount": 400, "unit": "g"},
+        {"name": "white rice", "amount": 150, "unit": "g"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"},
+        {"name": "diced tomatoes", "amount": 400, "unit": "g"},
+        {"name": "mozzarella cheese", "amount": 100, "unit": "g"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"name": "italian herbs", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cut tops off peppers and remove seeds",
+        "Cook rice according to package instructions",
+        "Brown ground turkey with diced onion and garlic",
+        "Mix cooked rice with meat mixture and diced tomatoes",
+        "Season with herbs, salt, and pepper",
+        "Stuff peppers with mixture",
+        "Top with cheese and bake at 375°F for 30 minutes",
+        "Serve hot"
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 28,
+        "carbs": 35,
+        "fat": 15,
+        "fiber": 5
+      },
+      "cookingTime": 50,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["gluten-free"],
+      "cuisine": "American",
+      "tags": ["stuffed", "balanced", "family-friendly"]
+    },
+    {
+      "id": 24,
+      "name": "Ratatouille",
+      "description": "French vegetable stew with eggplant, zucchini, and tomatoes",
+      "image": "/images/recipes/Ratatouille.jpg",
+      "ingredients": [
+        {"name": "eggplant", "amount": 400, "unit": "g"},
+        {"name": "zucchini", "amount": 300, "unit": "g"},
+        {"name": "bell peppers", "amount": 2, "unit": "pieces"},
+        {"name": "tomatoes", "amount": 400, "unit": "g"},
+        {"name": "onion", "amount": 1, "unit": "pieces"},
+        {"name": "garlic", "amount": 4, "unit": "cloves"},
+        {"name": "herbs de provence", "amount": 2, "unit": "tsp"},
+        {"name": "olive oil", "amount": 4, "unit": "tbsp"},
+        {"name": "thyme", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cut all vegetables into similar-sized chunks",
+        "Heat olive oil in large pot",
+        "Sauté onion until translucent",
+        "Add garlic and cook for 1 minute",
+        "Add eggplant and bell peppers, cook for 10 minutes",
+        "Add tomatoes, zucchini, and herbs",
+        "Simmer covered for 30 minutes",
+        "Season and serve with crusty bread"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 20,
+        "fat": 11,
+        "fiber": 8
+      },
+      "cookingTime": 50,
+      "difficulty": "easy",
+      "servings": 6,
+      "dietary": ["vegan", "vegetarian", "gluten-free"],
+      "cuisine": "French",
+      "tags": ["vegetables", "stew", "low-calorie"]
+    },
+    {
+      "id": 25,
+      "name": "Banana Bread",
+      "description": "Moist quick bread made with ripe bananas",
+      "image": "/images/recipes/Banana Bread.jpg",
+      "ingredients": [
+        {"name": "bananas", "amount": 4, "unit": "pieces"},
+        {"name": "flour", "amount": 300, "unit": "g"},
+        {"name": "butter", "amount": 100, "unit": "g"},
+        {"name": "brown sugar", "amount": 150, "unit": "g"},
+        {"name": "eggs", "amount": 2, "unit": "pieces"},
+        {"name": "vanilla extract", "amount": 1, "unit": "tsp"},
+        {"name": "baking soda", "amount": 1, "unit": "tsp"},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"},
+        {"name": "walnuts", "amount": 100, "unit": "g"}
+      ],
+      "instructions": [
+        "Preheat oven to 350°F and grease loaf pan",
+        "Mash ripe bananas in large bowl",
+        "Melt butter and mix with mashed bananas",
+        "Beat in eggs, vanilla, and brown sugar",
+        "In separate bowl, mix flour, baking soda, and salt",
+        "Fold dry ingredients into wet ingredients",
+        "Fold in chopped walnuts if using",
+        "Pour into loaf pan and bake for 60 minutes",
+        "Cool completely before slicing"
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 5,
+        "carbs": 38,
+        "fat": 8,
+        "fiber": 3
+      },
+      "cookingTime": 75,
+      "difficulty": "easy",
+      "servings": 12,
+      "dietary": ["vegetarian"],
+      "cuisine": "American",
+      "tags": ["bread", "sweet", "baking"]
+    },
+    {
+      "id": 26,
+      "name": "Margherita Pizza",
+      "description": "Classic Italian pizza with tomato sauce, mozzarella, and fresh basil",
+      "image": "/images/recipes/pizza.jpg",
+      "ingredients": [
+        {"name": "pizza dough", "amount": 400, "unit": "g"},
+        {"name": "tomato sauce", "amount": 150, "unit": "ml"},
+        {"name": "mozzarella cheese", "amount": 200, "unit": "g"},
+        {"name": "fresh basil", "amount": 15, "unit": "leaves"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"name": "garlic", "amount": 2, "unit": "cloves"},
+        {"name": "oregano", "amount": 1, "unit": "tsp"},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Preheat oven to 475°F (245°C)",
+        "Roll out pizza dough on floured surface",
+        "Transfer to pizza stone or baking sheet",
+        "Spread tomato sauce evenly over dough",
+        "Add minced garlic and sprinkle oregano",
+        "Top with torn mozzarella cheese",
+        "Drizzle with olive oil",
+        "Bake for 12-15 minutes until crust is golden",
+        "Add fresh basil leaves after baking",
+        "Slice and serve hot"
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 18,
+        "carbs": 55,
+        "fat": 18,
+        "fiber": 3
+      },
+      "cookingTime": 25,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": ["vegetarian"],
+      "cuisine": "Italian",
+      "tags": ["pizza", "cheese", "classic"]
+    },
+    {
+      "id": 27,
+      "name": "Classic Beef Burger",
+      "description": "Juicy beef burger with lettuce, tomato, onion, and pickles",
+      "image": "/images/recipes/Classic Beef Burger.jpg",
+      "ingredients": [
+        {"name": "ground beef", "amount": 600, "unit": "g"},
+        {"name": "burger buns", "amount": 4, "unit": "pieces"},
+        {"name": "cheddar cheese", "amount": 120, "unit": "g"},
+        {"name": "lettuce", "amount": 4, "unit": "leaves"},
+        {"name": "tomatoes", "amount": 2, "unit": "pieces"},
+        {"name": "red onion", "amount": 1, "unit": "pieces"},
+        {"name": "pickles", "amount": 8, "unit": "slices"},
+        {"name": "mayonnaise", "amount": 4, "unit": "tbsp"},
+        {"name": "ketchup", "amount": 2, "unit": "tbsp"},
+        {"name": "salt", "amount": 1, "unit": "tsp"},
+        {"name": "black pepper", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Form ground beef into 4 equal patties",
+        "Season both sides with salt and pepper",
+        "Heat grill or large pan over medium-high heat",
+        "Cook patties for 4-5 minutes per side",
+        "Add cheese slices in last minute of cooking",
+        "Toast burger buns lightly",
+        "Spread mayo and ketchup on buns",
+        "Layer lettuce, tomato slices, onion rings",
+        "Add cooked patty with melted cheese",
+        "Top with pickles and serve immediately"
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 32,
+        "carbs": 35,
+        "fat": 35,
+        "fiber": 3
+      },
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "American",
+      "tags": ["burger", "beef", "classic", "grill"]
+    },
+    {
+      "id": 28,
+      "name": "Creamy Alfredo Pasta",
+      "description": "Rich and creamy pasta with parmesan cheese and garlic",
+      "image": "/images/recipes/pasta.jpg",
+      "ingredients": [
+        {"name": "fettuccine pasta", "amount": 400, "unit": "g"},
+        {"name": "heavy cream", "amount": 300, "unit": "ml"},
+        {"name": "parmesan cheese", "amount": 150, "unit": "g"},
+        {"name": "butter", "amount": 80, "unit": "g"},
+        {"name": "garlic", "amount": 4, "unit": "cloves"},
+        {"name": "fresh parsley", "amount": 3, "unit": "tbsp"},
+        {"name": "nutmeg", "amount": 0.25, "unit": "tsp"},
+        {"name": "salt", "amount": 1, "unit": "tsp"},
+        {"name": "black pepper", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cook fettuccine according to package directions until al dente",
+        "Reserve 1 cup pasta water before draining",
+        "Melt butter in large pan over medium heat",
+        "Add minced garlic and cook for 1 minute",
+        "Pour in heavy cream and bring to gentle simmer",
+        "Add grated parmesan cheese gradually, whisking constantly",
+        "Season with nutmeg, salt, and pepper",
+        "Toss drained pasta with sauce",
+        "Add pasta water if needed for consistency",
+        "Garnish with fresh parsley and serve immediately"
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 22,
+        "carbs": 58,
+        "fat": 35,
+        "fiber": 3
+      },
+      "cookingTime": 20,
+      "difficulty": "easy",
+      "servings": 4,
+      "dietary": ["vegetarian"],
+      "cuisine": "Italian",
+      "tags": ["pasta", "creamy", "comfort food"]
+    },
+    {
+      "id": 29,
+      "name": "Chicken Ramen Noodles",
+      "description": "Homemade ramen with tender chicken, soft-boiled egg, and vegetables",
+      "image": "/images/recipes/noodles.jpg",
+      "ingredients": [
+        {"name": "ramen noodles", "amount": 400, "unit": "g"},
+        {"name": "chicken thighs", "amount": 400, "unit": "g"},
+        {"name": "chicken stock", "amount": 1.5, "unit": "l"},
+        {"name": "soy sauce", "amount": 4, "unit": "tbsp"},
+        {"name": "miso paste", "amount": 2, "unit": "tbsp"},
+        {"name": "eggs", "amount": 4, "unit": "pieces"},
+        {"name": "green onions", "amount": 4, "unit": "stalks"},
+        {"name": "mushrooms", "amount": 200, "unit": "g"},
+        {"name": "corn kernels", "amount": 150, "unit": "g"},
+        {"name": "ginger", "amount": 2, "unit": "tbsp"},
+        {"name": "garlic", "amount": 3, "unit": "cloves"},
+        {"name": "sesame oil", "amount": 1, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Marinate chicken in soy sauce, ginger, and garlic for 30 minutes",
+        "Soft-boil eggs for 6 minutes, then ice bath and peel",
+        "Cook chicken until done, then slice",
+        "Heat chicken stock and whisk in miso paste",
+        "Add soy sauce and simmer for 10 minutes",
+        "Cook ramen noodles according to package directions",
+        "Sauté mushrooms until golden",
+        "Divide noodles among bowls",
+        "Ladle hot broth over noodles",
+        "Top with sliced chicken, halved eggs, mushrooms, corn",
+        "Garnish with chopped green onions and drizzle sesame oil"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 52,
+        "fat": 20,
+        "fiber": 4
+      },
+      "cookingTime": 50,
+      "difficulty": "medium",
+      "servings": 4,
+      "dietary": [],
+      "cuisine": "Japanese",
+      "tags": ["noodles", "soup", "comfort food", "asian"]
+    }
+  ]
+}
